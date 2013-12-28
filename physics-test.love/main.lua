@@ -96,10 +96,10 @@ function love.draw()
 		local r = balls[i].shape:getRadius()
 		local segments = 36
 		
-	    love.graphics.circle("line", x, y, r, segments)
+		love.graphics.circle("line", x, y, r, segments)
 
 		-- Draw a line from circle's center to edge along its rotational angle
 		
-	    love.graphics.line(x, y, x + (math.cos(a) * r), y + (math.sin(a) * r))
+		love.graphics.line(x, y, x + (math.cos(a) * r), y + (math.sin(a) * r))
 	end
 end
