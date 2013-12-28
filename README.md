@@ -3,6 +3,8 @@ love-physics-test
 
 Short example of physics simulation in LOVE 2D
 
+by Steven Frank <stevenf@panic.com> (@stevenf)
+
 Creates some ball shapes and applies gravity.  If they settle down, a mouse
 click will shake 'em up again.
 
