@@ -10,7 +10,7 @@ click will shake 'em up again.
 
 Download LOVE from http://love2d.org/
 
-Run with: &lt;path-to-love&gt; physics-test.love
+Run with: [path-to-love] physics-test.love
 
 On OS X, if LOVE is in /Applications you can do:
 
